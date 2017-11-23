@@ -14,5 +14,21 @@ echo "Table not created";
 }
 
 
+/*
+$a=3;
+$b=$a++;
+print_r($a.$b);
+
+echo "<hr/>";
+
+$a = '1';
+
+$b = &$a;
+
+$b = "2$b";
+
+echo $a.", ".$b;
+*/
+
 
 ?>

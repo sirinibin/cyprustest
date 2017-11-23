@@ -25,14 +25,14 @@ function createUserTable($conn)
 }
 function getArrayRecords($conn,$array){
 
-    $query="select * from user where id in (".implode(",",$array).")";
+    $query="select *,(select avg(age) from user) as average_age from user where id in (".implode(",",$array).")";
 
     $result=$conn->query($query);
 
     if ($result->num_rows > 0) {
         // output data of each row
         while($row = $result->fetch_assoc()) {
-            echo "id: " . $row["id"]. " - Status: " . $row["status"]. ", Age:" . $row["age"]. "<br>";
+            echo "id: " . $row["id"]. " - Status: " . $row["status"]. ", Age:" . $row["age"]. ",Avg age:" . $row["average_age"]."<br>";
         }
     } else {
         echo "0 results";

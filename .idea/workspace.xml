@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47663552" vertical-offset="0" max-vertical-offset="535">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -48,21 +48,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="135" max-vertical-offset="675">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.69158876" vertical-offset="140" max-vertical-offset="675">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding>
-                <marker date="1511447745000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
-                <marker date="1511447745000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
-                <marker date="1511447745000" expanded="true" signature="695:725" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:726" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:726" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:727" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:748" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:748" placeholder="select * fro..user..." />
-                <marker date="1511447745000" expanded="true" signature="695:751" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
+                <marker date="1511449792000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
+                <marker date="1511449792000" expanded="true" signature="695:768" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:769" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:769" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:770" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:791" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:791" placeholder="select * fro..user..." />
+                <marker date="1511449792000" expanded="true" signature="695:794" placeholder="select *,(se..user..." />
+                <marker date="1511449792000" expanded="true" signature="705:730" placeholder="select avg(a..user..." />
               </folding>
             </state>
           </provider>
@@ -74,8 +75,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/function.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/functions.php" />
       </list>
     </option>
@@ -219,6 +220,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="375">
@@ -232,27 +241,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="135" max-vertical-offset="675">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.69158876" vertical-offset="140" max-vertical-offset="675">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           <folding>
-            <marker date="1511447745000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
-            <marker date="1511447745000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
-            <marker date="1511447745000" expanded="true" signature="695:725" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:726" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:726" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:727" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:748" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:748" placeholder="select * fro..user..." />
-            <marker date="1511447745000" expanded="true" signature="695:751" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
+            <marker date="1511449792000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
+            <marker date="1511449792000" expanded="true" signature="695:768" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:769" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:769" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:770" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:791" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:791" placeholder="select * fro..user..." />
+            <marker date="1511449792000" expanded="true" signature="695:794" placeholder="select *,(se..user..." />
+            <marker date="1511449792000" expanded="true" signature="705:730" placeholder="select avg(a..user..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47663552" vertical-offset="0" max-vertical-offset="535">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
