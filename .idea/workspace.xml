@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.42056075" vertical-offset="0" max-vertical-offset="535">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -38,36 +38,36 @@
       <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="375">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="390">
+              <caret line="10" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <marker date="1511446907000" expanded="true" signature="31:55" placeholder="ALTER TABLE ..." />
-                <marker date="1511446907000" expanded="true" signature="275:361" placeholder="ALTER TABLE ..." />
+                <marker date="1511452993000" expanded="true" signature="32:56" placeholder="ALTER TABLE ..." />
+                <marker date="1511452993000" expanded="true" signature="278:364" placeholder="ALTER TABLE ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5794392" vertical-offset="125" max-vertical-offset="705">
-              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+            <state vertical-scroll-proportion="-10.416667" vertical-offset="155" max-vertical-offset="735">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
-                <marker date="1511452954000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
-                <marker date="1511452954000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
-                <marker date="1511452954000" expanded="true" signature="695:963" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:964" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:964" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:965" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:986" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:986" placeholder="select * fro..user..." />
-                <marker date="1511452954000" expanded="true" signature="695:989" placeholder="select *,(se..user..." />
-                <marker date="1511452954000" expanded="true" signature="705:745" placeholder="select avg(a..user..." />
-                <marker date="1511452954000" expanded="true" signature="705:781" placeholder="select avg(a..user..." />
-                <marker date="1511452954000" expanded="true" signature="823:863" placeholder="select avg(a..user..." />
-                <marker date="1511452954000" expanded="true" signature="823:867" placeholder="select avg(a..user..." />
-                <marker date="1511452954000" expanded="true" signature="823:899" placeholder="select avg(a..user..." />
+                <marker date="1511452988000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
+                <marker date="1511452988000" expanded="true" signature="312:464" placeholder="INSERT INTO ..." />
+                <marker date="1511452988000" expanded="true" signature="703:981" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:982" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:982" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:983" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:1007" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:1007" placeholder="select * fro..user..." />
+                <marker date="1511452988000" expanded="true" signature="703:1012" placeholder="select *,(se..user..." />
+                <marker date="1511452988000" expanded="true" signature="713:753" placeholder="select avg(a..user..." />
+                <marker date="1511452988000" expanded="true" signature="713:794" placeholder="select avg(a..user..." />
+                <marker date="1511452988000" expanded="true" signature="836:876" placeholder="select avg(a..user..." />
+                <marker date="1511452988000" expanded="true" signature="836:880" placeholder="select avg(a..user..." />
+                <marker date="1511452988000" expanded="true" signature="836:917" placeholder="select avg(a..user..." />
               </folding>
             </state>
           </provider>
@@ -79,9 +79,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/function.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/db.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/functions.php" />
       </list>
     </option>
   </component>
@@ -224,45 +224,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-          <folding />
+        <state vertical-scroll-proportion="-10.416667" vertical-offset="155" max-vertical-offset="735">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <marker date="1511452988000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
+            <marker date="1511452988000" expanded="true" signature="312:464" placeholder="INSERT INTO ..." />
+            <marker date="1511452988000" expanded="true" signature="703:981" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:982" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:982" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:983" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:1007" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:1007" placeholder="select * fro..user..." />
+            <marker date="1511452988000" expanded="true" signature="703:1012" placeholder="select *,(se..user..." />
+            <marker date="1511452988000" expanded="true" signature="713:753" placeholder="select avg(a..user..." />
+            <marker date="1511452988000" expanded="true" signature="713:794" placeholder="select avg(a..user..." />
+            <marker date="1511452988000" expanded="true" signature="836:876" placeholder="select avg(a..user..." />
+            <marker date="1511452988000" expanded="true" signature="836:880" placeholder="select avg(a..user..." />
+            <marker date="1511452988000" expanded="true" signature="836:917" placeholder="select avg(a..user..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="375">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="390">
+          <caret line="10" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <marker date="1511446907000" expanded="true" signature="31:55" placeholder="ALTER TABLE ..." />
-            <marker date="1511446907000" expanded="true" signature="275:361" placeholder="ALTER TABLE ..." />
+            <marker date="1511452993000" expanded="true" signature="32:56" placeholder="ALTER TABLE ..." />
+            <marker date="1511452993000" expanded="true" signature="278:364" placeholder="ALTER TABLE ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5794392" vertical-offset="125" max-vertical-offset="705">
-          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-          <folding>
-            <marker date="1511452954000" expanded="true" signature="55:237" placeholder="CREATE TABLE..IF..." />
-            <marker date="1511452954000" expanded="true" signature="310:462" placeholder="INSERT INTO ..." />
-            <marker date="1511452954000" expanded="true" signature="695:963" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:964" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:964" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:965" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:986" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:986" placeholder="select * fro..user..." />
-            <marker date="1511452954000" expanded="true" signature="695:989" placeholder="select *,(se..user..." />
-            <marker date="1511452954000" expanded="true" signature="705:745" placeholder="select avg(a..user..." />
-            <marker date="1511452954000" expanded="true" signature="705:781" placeholder="select avg(a..user..." />
-            <marker date="1511452954000" expanded="true" signature="823:863" placeholder="select avg(a..user..." />
-            <marker date="1511452954000" expanded="true" signature="823:867" placeholder="select avg(a..user..." />
-            <marker date="1511452954000" expanded="true" signature="823:899" placeholder="select avg(a..user..." />
-          </folding>
+        <state vertical-scroll-proportion="0.42056075" vertical-offset="0" max-vertical-offset="535">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
